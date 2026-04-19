@@ -58,3 +58,12 @@ Sensitive information such as real usernames, hostnames, paths, and addresses ha
 - `examples/` – example outputs and notifications
 - `docs/` – project notes and documentation
 
+## Next Steps
+
+Possible future improvements:
+
+- support for incremental backups
+- compression options
+- integration with external monitoring tools
+- support for multiple backup targets
+- logging improvements and alerting
