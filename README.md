@@ -52,3 +52,9 @@ AI tools (ChatGPT) were used for idea exploration, script refinement, debugging,
 
 Sensitive information such as real usernames, hostnames, paths, and addresses has been removed from this public version.
 
+## Repository Structure
+
+- `scripts/` – backup automation scripts
+- `examples/` – example outputs and notifications
+- `docs/` – project notes and documentation
+
